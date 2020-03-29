@@ -1,0 +1,7 @@
+VERSION                                                                                                                                                             
+SERVICE.NAME=cloud-alexaControlProxy
+SERVICE.VERSION=V1.0.0.0
+DB.VERSION=V0.0.0.0
+CHANGELOG
+【新增】first commit
+
